@@ -1,6 +1,7 @@
 config
 config.txt
 config.py
+plotly_key.ipynb
 
 
 # Byte-compiled / optimized / DLL files
