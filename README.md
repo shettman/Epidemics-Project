@@ -18,7 +18,7 @@ Historical analysis of the rates of seven infectious diseases by U.S. state and 
 
 ![total_cases_per_all_states_stacked_bar](https://user-images.githubusercontent.com/48166327/58993309-06cc1300-87a2-11e9-8345-3f5c9cf17ad5.png)
 
-  - When normalizing for state population Vermont, Wisconsin, Montana, Utah and Wyoming had the highest total incidence of all contagious diseases
+  - When normalizing for state population Wisconsin, Vermont, Utah and Montana had the highest total incidence of all contagious diseases
 
 ![total_incidence_all_states_stacked_bar](https://user-images.githubusercontent.com/48166327/58993310-0a5f9a00-87a2-11e9-8394-c56fb60a9457.png)
 
