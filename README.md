@@ -5,7 +5,8 @@ Historical analysis of the rates of seven infectious diseases by U.S. state and 
   
   -From the National Notifiable Disease Surveillance System (NNDSS) reports for the United States ranging from 1916-2011
   
-  -The states of New York, California, Texas, Pennsylvania, and Wisconsin had the largest cumulative average number of contagious diseases, driven in large part by the measles dataset
+  
+  - The states of New York, California, Texas, Pennsylvania, and Wisconsin had the largest cumulative average number of contagious diseases, driven in large part by the measles dataset
 
 ![mean_number_cases_all_state](https://user-images.githubusercontent.com/48166327/58993286-f156e900-87a1-11e9-89ca-5d8fa11b0754.png)
 
