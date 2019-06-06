@@ -1,4 +1,5 @@
-# Epidemics-Project
+﻿# Epidemics-Project
+
 Historical analysis of the rates of seven infectious diseases by U.S. state and year using datasets from Kaggle (Project Tycho : Contagious Diseases)
 
   -Smallpox, polio, measles, mumps, rubella, hepatitis A, and whooping cough (pertussis)
@@ -69,6 +70,7 @@ Historical analysis of the rates of seven infectious diseases by U.S. state and 
   - Box plot of the years 1963 – 1966 for the average total number of measles cases per week in a year.  The number of cases significantly decreased every year following the development of a vaccine in 1963. 
 
 ![total_measles_box_plot](https://user-images.githubusercontent.com/48166327/58993440-64f8f600-87a2-11e9-9f13-ea217cf04c72.png)
+
 
 
 
